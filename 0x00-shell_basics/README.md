@@ -1,1 +1,1 @@
-Move only uppercase
+scripting is where the fun is
