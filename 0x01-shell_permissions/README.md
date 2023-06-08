@@ -6,3 +6,4 @@ Opens empty file
 adds execute permision
 change permission for all
 permisions
+bug fixed on dir 11
