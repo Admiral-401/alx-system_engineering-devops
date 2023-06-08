@@ -7,3 +7,4 @@ adds execute permision
 change permission for all
 permisions
 bug fixed on dir 11
+Permissiions in bash scripting
