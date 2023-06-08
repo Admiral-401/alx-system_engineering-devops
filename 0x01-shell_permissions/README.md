@@ -4,3 +4,4 @@ displays group info
 change file owner
 Opens empty file
 adds execute permision
+change permission for all
