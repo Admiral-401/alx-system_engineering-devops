@@ -1,1 +1,1 @@
-scripting is where the fun is
+kick out betty
